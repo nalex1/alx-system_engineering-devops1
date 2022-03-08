@@ -1,1 +1,1 @@
-my project in shell redirection
+README FILE OF SHELL_REDIRECTION
